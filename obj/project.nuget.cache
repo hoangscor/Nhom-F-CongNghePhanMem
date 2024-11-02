@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LqdVN0l/iAXzucGL85THSp+RWVsVU61Sng0giB+dIhDp4lee+loi5jiBICRuPxIf4J/wCLFAiJCY+SoYjyQU5g==",
+  "dgSpecHash": "pJd4DVh2Bzs7WSFM5XGzao8E4B+ND6arWF/txjVsfOoOk6Mqxw8unbRUNtJDu2Qgiv8z8Oc/iVMwEk25LnAuDw==",
   "success": true,
-  "projectFilePath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+  "projectFilePath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Nhom-F-CongNghePhanMem\\HairHarmonySalon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\acer\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\acer\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

@@ -3094,10 +3094,6 @@
       "Harmony.Repositories/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.10",
-          "Microsoft.EntityFrameworkCore.SqlServer": "8.0.10"
-        },
         "compile": {
           "bin/placeholder/Harmony.Repositories.dll": {}
         },
@@ -8569,11 +8565,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+      "projectUniqueName": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Nhom-F-CongNghePhanMem\\HairHarmonySalon.csproj",
       "projectName": "HairHarmonySalon",
-      "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\HairHarmonySalon.csproj",
+      "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Nhom-F-CongNghePhanMem\\HairHarmonySalon.csproj",
       "packagesPath": "C:\\Users\\acer\\.nuget\\packages\\",
-      "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\HairHarmonySalon\\obj\\",
+      "outputPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Nhom-F-CongNghePhanMem\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8590,8 +8586,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj": {
-              "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\HairSalonProjecttest\\HairSalonProjecttest\\HairSalonProject\\Harmony.Services\\Harmony.Services.csproj"
+            "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Harmony.Services\\Harmony.Services.csproj": {
+              "projectPath": "K:\\Workspace\\C#\\projecj cong nghe phan mem\\thunha\\Harmony.Services\\Harmony.Services.csproj"
             }
           }
         }
