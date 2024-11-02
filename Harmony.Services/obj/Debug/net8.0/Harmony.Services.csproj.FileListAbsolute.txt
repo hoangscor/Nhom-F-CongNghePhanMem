@@ -1,0 +1,64 @@
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.deps.json
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.AssemblyReference.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.GeneratedMSBuildEditorConfig.editorconfig
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfoInputs.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfo.cs
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CoreCompileInputs.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CopyComplete
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.deps.json
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.dll
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.pdb
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.AssemblyReference.cache
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfoInputs.cache
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfo.cs
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony..42CE93DA.Up2Date
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\Downloads\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.deps.json
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.dll
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.pdb
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.AssemblyReference.cache
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfoInputs.cache
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfo.cs
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CoreCompileInputs.cache
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony..42CE93DA.Up2Date
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.dll
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.pdb
+C:\Users\Ngoc\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Repositories.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.AssemblyReference.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.GeneratedMSBuildEditorConfig.editorconfig
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfoInputs.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.AssemblyInfo.cs
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CoreCompileInputs.cache
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.sourcelink.json
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.csproj.CopyComplete
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\refint\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\Harmony.Services.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.deps.json
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.dll
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\bin\Debug\net8.0\Harmony.Services.pdb
+K:\Workspace\C#\projecj cong nghe phan mem\HairSalonProjecttest\HairSalonProjecttest\HairSalonProject\Harmony.Services\obj\Debug\net8.0\ref\Harmony.Services.dll
